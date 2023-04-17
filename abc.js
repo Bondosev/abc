@@ -1,1 +1,1 @@
-document.location.href="https://google.com"
+document.write ("a");
